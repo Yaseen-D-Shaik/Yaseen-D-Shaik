@@ -56,7 +56,7 @@ and deployment systems — from scratch training to Dockerized serving and bench
 |------|------------|
 | [`ml-paper-reproductions`](https://github.com/Yaseen-D-Shaik/ml-paper-reproductions) | Foundational ML papers reproduced from scratch in PyTorch |
 | [`ml-architecture-lab`](https://github.com/Yaseen-D-Shaik/ml-architecture-lab) | Custom architectures, pipelines, Docker serving, benchmarks |
-| [`language-model-from-scratch`](language-model-from-scratch) | Character-level and n-gram language models built from first principles |
+| [`language-model-from-scratch`](https://github.com/Yaseen-D-Shaik/language-model-from-scratch) | Character-level and n-gram language models built from first principles |
 
 ---
 
