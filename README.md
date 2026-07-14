@@ -41,12 +41,12 @@ using techniques. Then I take that understanding into production.
 **Track 1 — Research Reproduction**  
 Reproducing foundational ML research papers from scratch in PyTorch.  
 Goal: research-level fluency, not surface familiarity.  
-→ [`ml-paper-reproductions`](ml-paper-reproductions)
+→ [`ml-paper-reproductions`](https://github.com/Yaseen-D-Shaik/ml-paper-reproductions)
 
 **Track 2 — Custom Architecture Lab**  
 Building and experimenting with custom model architectures, training pipelines,
 and deployment systems — from scratch training to Dockerized serving and benchmark evaluation.  
-→ [`ml-architecture-lab`](https://github.com/Yaseen-D-Shaik/ml-architecture-lab)]
+→ [`ml-architecture-lab`](https://github.com/Yaseen-D-Shaik/ml-architecture-lab)
 
 ---
 
@@ -54,8 +54,8 @@ and deployment systems — from scratch training to Dockerized serving and bench
 
 | Repo | What It Is |
 |------|------------|
-| [`ml-paper-reproductions`](ml-paper-reproductions) | Foundational ML papers reproduced from scratch in PyTorch |
-| [`ml-architecture-lab`](ml-architecture-lab) | Custom architectures, pipelines, Docker serving, benchmarks |
+| [`ml-paper-reproductions`](https://github.com/Yaseen-D-Shaik/ml-paper-reproductions) | Foundational ML papers reproduced from scratch in PyTorch |
+| [`ml-architecture-lab`](https://github.com/Yaseen-D-Shaik/ml-architecture-lab) | Custom architectures, pipelines, Docker serving, benchmarks |
 | [`language-model-from-scratch`](language-model-from-scratch) | Character-level and n-gram language models built from first principles |
 
 ---
