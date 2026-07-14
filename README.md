@@ -46,7 +46,7 @@ Goal: research-level fluency, not surface familiarity.
 **Track 2 — Custom Architecture Lab**  
 Building and experimenting with custom model architectures, training pipelines,
 and deployment systems — from scratch training to Dockerized serving and benchmark evaluation.  
-→ [`ml-architecture-lab`](ml-architecture-lab)
+→ [`ml-architecture-lab`]([ml-architecture-lab)](https://github.com/Yaseen-D-Shaik/ml-architecture-lab)
 
 ---
 
